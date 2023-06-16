@@ -1,1 +1,1 @@
-fooddata-central-api-key: 8NHYmh8hC8QpeqAu0O7VEFCi77SEdRCF5qAHK7JK
+fooddata-central-api-key: UpoRCcwv3zsu2r7cg4v84fjAKJBeB6w0nnr6PWMQ
